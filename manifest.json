@@ -1,0 +1,27 @@
+
+{
+  "name": "Auto Rally - Rickshaw Racing Game",
+  "short_name": "Auto Rally",
+  "description": "Offline auto-rickshaw racing game",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e8f5e9",
+  "theme_color": "#2e7d32",
+  "orientation": "portrait",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
